@@ -1,0 +1,6 @@
+HDA:
+network: Gnutella
+time: 9895.936799999618ms
+len_sol: 4436
+Num of nodes: 10876
+ANC: 0.1983845881340788

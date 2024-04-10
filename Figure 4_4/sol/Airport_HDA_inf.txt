@@ -1,0 +1,6 @@
+HDA:
+network: Airport
+time: 11.066591832786798ms
+len_sol: 151
+Num of nodes: 332
+ANC: 0.11099352364412654

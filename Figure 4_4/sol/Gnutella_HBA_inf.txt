@@ -1,0 +1,6 @@
+HBA:
+network: Gnutella
+time: 15557075.7753ms
+len_sol: 10864
+Num of nodes: 10876
+ANC: 0.20105868512761196

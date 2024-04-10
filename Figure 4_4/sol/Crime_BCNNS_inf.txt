@@ -1,0 +1,7 @@
+BCNNS:
+network: Crime
+time: 552.1442438475788ms
+N1: 120,   N2: 80
+len_sol: 351
+Num of nodes: 829
+ANC: 0.09901608847936934

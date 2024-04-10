@@ -1,0 +1,6 @@
+HBA:
+network: Crime
+time: 4434.645663015544ms
+len_sol: 820
+Num of nodes: 829
+ANC: 0.10143590041710465

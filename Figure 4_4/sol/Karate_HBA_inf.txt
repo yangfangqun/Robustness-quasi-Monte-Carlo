@@ -1,0 +1,6 @@
+HBA:
+network: Karate
+time: 1.8806266598403454ms
+len_sol: 27
+Num of nodes: 34
+ANC: 0.15042016806722677

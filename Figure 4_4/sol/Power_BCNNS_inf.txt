@@ -1,0 +1,7 @@
+BCNNS:
+network: Power
+time: 6760.657473932952ms
+N1: 1300,   N2: 80
+len_sol: 2302
+Num of nodes: 4941
+ANC: 0.009059758243182028
