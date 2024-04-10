@@ -1,0 +1,6 @@
+HBA:
+network: Power
+time: 78119.94870519266ms
+len_sol: 4938
+Num of nodes: 4941
+ANC: 0.010123750011365194

@@ -1,0 +1,6 @@
+HBA:
+network: Oregon1
+time: 447802.78703803197 ms
+len_sol: 10561
+Num of nodes: 10670
+ANC: 0.007287090580091432

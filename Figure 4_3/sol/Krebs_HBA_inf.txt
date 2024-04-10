@@ -1,0 +1,6 @@
+HBA:
+network: Krebs
+time: 4.585329908877611ms
+len_sol: 55
+Num of nodes: 62
+ANC: 0.14208909370199738

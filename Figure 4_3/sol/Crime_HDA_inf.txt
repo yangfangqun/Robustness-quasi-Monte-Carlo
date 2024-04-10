@@ -1,0 +1,6 @@
+HDA:
+network: Crime
+time: 49.078206066042185ms
+len_sol: 347
+Num of nodes: 829
+ANC: 0.11537488918278566

@@ -1,0 +1,7 @@
+BCNNS:
+network: Airport
+time: 82.31750782579184ms
+N1: 100,   N2: 60
+len_sol: 151
+Num of nodes: 332
+ANC: 0.07527406924997278

@@ -1,0 +1,7 @@
+BCNNS:
+network: Krebs
+time: 3.6351559683680534ms
+N1: 30,   N2: 16
+len_sol: 30
+Num of nodes: 62
+ANC: 0.12263184843830006

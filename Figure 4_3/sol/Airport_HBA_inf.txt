@@ -1,0 +1,6 @@
+HBA:
+network: Airport
+time: 210.99851466715336ms
+len_sol: 312
+Num of nodes: 332
+ANC: 0.07933535945584108

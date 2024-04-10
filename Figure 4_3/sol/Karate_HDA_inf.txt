@@ -1,0 +1,6 @@
+HDA:
+network: Karate
+time: 0.9406688623130322ms
+len_sol: 15
+Num of nodes: 34
+ANC: 0.15042016806722686

@@ -1,0 +1,6 @@
+HDA:
+network: Krebs
+time: 2.363785170018673ms
+len_sol: 31
+Num of nodes: 62
+ANC: 0.17229902713773695

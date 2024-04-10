@@ -1,0 +1,6 @@
+HDA:
+network: Power
+time: 1796.8423459678888ms
+len_sol: 2277
+Num of nodes: 4941
+ANC: 0.052264515700482114

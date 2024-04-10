@@ -1,0 +1,7 @@
+BCNNS:
+network: Oregon1
+time: 15799.136378336698 ms
+N1: 2300,   N2: 80
+len_sol: 1603
+Num of nodes: 10670
+ANC: 0.006864596449819865

@@ -1,0 +1,6 @@
+HDA:
+network: Oregon1
+time: 2065.9403218887746 ms
+len_sol: 1595
+Num of nodes: 10670
+ANC: 0.010077018558914384
