@@ -1,0 +1,2 @@
+Karate_ASR8_HDA:40.61934453781512
+Time for MC of Karate: 296.666475944221ms

@@ -1,0 +1,2 @@
+Karate_ASR7_RF:55.47564705882348
+Time for MC of Karate: 519.572764984332ms
