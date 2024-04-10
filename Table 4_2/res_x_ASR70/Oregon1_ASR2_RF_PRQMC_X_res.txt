@@ -1,0 +1,2 @@
+Oregon1_ASR2_RF:51.94764703169
+Time for MC of Oregon1: 1277407.4410740286ms

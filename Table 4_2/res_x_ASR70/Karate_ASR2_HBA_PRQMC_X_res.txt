@@ -1,0 +1,2 @@
+Karate_ASR2_HBA:42.286
+Time for MC of Karate: 296.53044091537595ms
