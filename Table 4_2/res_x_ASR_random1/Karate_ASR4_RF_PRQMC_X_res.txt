@@ -1,0 +1,2 @@
+Karate_ASR4_RF:52.97994957983212
+Time for MC of Karate: 537.6084429444745ms
